@@ -1,0 +1,6 @@
+{
+  "name": "FreshProduce POS",
+  "description": "Premium offline-first Point of Sale (POS) system designed specifically for fresh produce and fruit retailers, featuring batch freshness tracking, smart auto-weigh simulation, low stock alerts, and multi-payment support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
